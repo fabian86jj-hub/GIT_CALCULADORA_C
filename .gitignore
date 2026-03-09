@@ -1,0 +1,6 @@
+*.o
+*.out
+conversor
+*.tmp
+*.log
+build/
